@@ -247,3 +247,13 @@ HAVING
         SUM(quantity) > (SELECT avg_quantity FROM avgquantity);
 
 ```
+## What I Learned
+Throughout this project, I gained valuable experience in data organization, enrichment, integration, and analysis. I learned to design and manage a structured database, proficiently using SQL commands for creating, altering, and managing tables. Enhancing the dataset with time-based categorizations made the data more informative and easier to analyze. I also developed skills in integrating external sales data and writing comprehensive SQL queries to extract insights, such as total revenue by city, transactions by time of day, and product performance metrics. This project sharpened my analytical thinking, enabling me to interpret data effectively and derive meaningful business insights. Analyzing sales trends, customer behavior, and performance metrics provided a solid foundation for making data-driven business decisions.
+## Insights
+- ***Revenue Analysis:*** Identified which cities and product lines generated the most revenue, allowing for targeted marketing and inventory decisions.
+- ***Transaction Patterns:*** Determined peak sales times, which can inform staffing and promotional activities.
+- ***Product Performance:*** Classified product lines based on their sales performance, helping to optimize inventory and sales strategies.
+- ***Customer Behavior:*** Analyzed customer ratings and purchasing patterns to improve customer satisfaction and loyalty.
+- ***Branch Performance:*** Compared branch performance to identify top-performing locations and areas needing improvement.
+## Closing Thoughts
+This project has been an invaluable learning experience, providing a comprehensive understanding of data analysis, SQL, and business intelligence. The skills and insights gained through this analysis are not only applicable to retail data but can also be leveraged in various industries to drive data-driven decision-making. By continuously refining and expanding on these techniques, businesses can stay ahead of the competition, better meet customer needs, and achieve sustained growth. Prepare short for my cv to add in my porjects 
